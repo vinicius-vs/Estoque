@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Data.Repository
 {
-    class EstoqueRepository:BaseRepository<EstoqueModel>
+    public class EstoqueRepository : BaseRepository<EstoqueModel>
     {
     }
 }

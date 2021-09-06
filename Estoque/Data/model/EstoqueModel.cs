@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data.model
 {
-    class EstoqueModel : BaseModel
+    public class EstoqueModel : BaseModel
     {
         public string  Nome { get; set; }
         //public List<int> Produdos { get; set; }
